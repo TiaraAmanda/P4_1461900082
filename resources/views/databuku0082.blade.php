@@ -22,6 +22,7 @@
                 <br><br>
                   <h1 style="font-size: 20px;">Data Buku</h1><br> 
                   <button>TAMBAH DATA</button>
+                  <a href="">Export</a>
                   <br>
   <table class="data-table" style="margin-left:5px;width: 1150px;margin-top: 10px;">
     <thead>
